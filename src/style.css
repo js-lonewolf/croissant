@@ -1,0 +1,12 @@
+:root {
+  --croissant-background-color: bisque;
+}
+
+.croissant-bg-color {
+  background-color: var(--croissant-background-color);
+}
+
+.croissant-image {
+  width: 600px;
+  height: auto;
+}
